@@ -127,7 +127,7 @@ export function StorageListItem(props: StorageProps) {
       <Td>{props.storage.order}</Td>
       <Td>
         {t(
-          `storages.tabl_fields.status.${props.storage.status}`,
+          `storages.table_fields.status.${props.storage.status}`,
           undefined,
           props.storage.status,
         )}
