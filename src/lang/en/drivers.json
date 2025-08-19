@@ -729,6 +729,13 @@
     "url": "Url",
     "username": "Username"
   },
+  "OpenListShare": {
+    "forward_archive_requests": "Forward archive requests",
+    "pwd": "Pwd",
+    "root_folder_path": "Root folder path",
+    "sid": "Sid",
+    "url": "Url"
+  },
   "PikPak": {
     "captcha_token": "Captcha token",
     "device_id": "Device id",
@@ -1241,6 +1248,7 @@
     "Onedrive Sharelink": {},
     "OnedriveAPP": {},
     "OpenList": {},
+    "OpenListShare": {},
     "PikPak": {},
     "PikPakShare": {},
     "Quark": {},
@@ -1319,6 +1327,7 @@
     "Onedrive Sharelink": "Onedrive Sharelink",
     "OnedriveAPP": "OnedriveAPP",
     "OpenList": "OpenList",
+    "OpenListShare": "OpenListShare",
     "PikPak": "PikPak",
     "PikPakShare": "PikPakShare",
     "Quark": "Quark",
